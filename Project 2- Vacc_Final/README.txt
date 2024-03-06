@@ -10,7 +10,7 @@ Data Manipulation : Pandas and NumPy packages are used for importing, cleaning a
 
 Data Visualization : Matplotlib and Seaborn packages are used for plotting diagrams and for exploratory data analysis.
 
-Machine Learning : Scikit and TensorFlow packages are used to build models.
+Machine Learning : Scikit package is used to build models.
 
 There have been done domain analysis, basic checks, exploratory data analysis,data preprocessing, model building and model evaluation.
 
